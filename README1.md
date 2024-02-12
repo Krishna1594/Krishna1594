@@ -13,7 +13,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 - ⚡ Fun fact: I can hold my breath up to 1 minute 43 seconds.
 - 🎮 I am a PC gamer.
  
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  
 - 🤝 Connect with me on:
 <p align="center">
