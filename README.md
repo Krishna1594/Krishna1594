@@ -12,6 +12,8 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can hold my breath up to 1 minute 43 seconds.
 - 🎮 I am a PC gamer.
+
+This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  
@@ -36,8 +38,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
   <img src="https://i.postimg.cc/y6RnnQNb/gaming.png" alt="coding"/>
  </a>
  
- 
-This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
+
 
 **My Skills**
 
