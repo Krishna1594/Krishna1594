@@ -15,7 +15,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  
-- 🤝 Connect with me on:
+<p align="center"> 🤝 Connect with me on:
 <p align="center">
  <a href="https://krishna1594.github.io" target="blank">
   <img src="https://i.postimg.cc/tTSpYqKY/world-wide-web-6471842.png" alt="Krishna1594" />
