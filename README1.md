@@ -3,6 +3,9 @@
 Welcome to my GitHub profile :)
 I'm Krishna, a data analyst in energy field currently living in Vancouver, Canada.
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
 - 💬 Ask me about Oil & Gas and Data.
 - 🔭 I’m also an astrophotographer. Read my blogs about my meetings with celestials.
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
@@ -23,6 +26,9 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  </a>
  
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
+
+My Skills
+
 
 
 
