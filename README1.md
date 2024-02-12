@@ -39,7 +39,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
-My Skills
+**My Skills**
 
 Data Visualization
 
