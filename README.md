@@ -40,7 +40,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
  
 
 
-<p align="center"> **My Skills**
+<p align="center"> My Skills
  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=r,matlab,mysql" />
