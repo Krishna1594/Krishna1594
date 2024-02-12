@@ -27,6 +27,9 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  <a href="https://medium.com/@krishnanischal" target="_blank">
   <img src="https://i.postimg.cc/9M6VG8fh/medium-logo-icon-189268.png" alt="Krishna1594"/>
  </a>
+ <a href="https://public.tableau.com/app/profile/krishna.n.bharatula/vizzes" target="_blank">
+  <img src="https://i.postimg.cc/sXQGjN8d/Tableau-Icon.png" alt="Krishna1594"/>
+ </a>
  
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
