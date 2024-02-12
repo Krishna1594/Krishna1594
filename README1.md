@@ -1,14 +1,17 @@
 ### Hey! I'm [NAME] 👋
 
 Welcome to my GitHub profile :)
-I'm [NAME], a [ROLE i.g. DATA ANALYST, SOON-TO-BE DATA SCIENTIST] currently living in [LOCATION]
+I'm Krishna, a data analyst in energy field currently living in Vancouver, Canada.
 
-- 🔭 I’m currently working on [LATEST PROJECT]
-- 🌱 I’m currently learning ... [NEWEST SKILL]
-- 💬 Ask me about ... [A COOL PROJECT YOU DID]
-- 😄 Pronouns: ... [PRONOUNS]
-- ⚡ Fun fact: ... [ANY FUN FACT]
-- 🤝 Connect with me on LinkedIn ... [LinkedIn Link] 
+- 💬 Ask me about Oil & Gas and Data.
+- 🔭 I’m also an astrophotographer. Read my blogs on my [website](https://Krishna1594.github.io) about astrophotography.
+- 🌱 I’m currently diving deeper into MySQL and Tableau.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I like swimming and Shuttle Badminton. I like trickshots.
+- 🤝 Connect with me on </a>
+ <a href="https://linkedin.com/in/krishna-nischal-bharatula" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
 - 🎈 In my free time, I like to ... [LIST HOBBIES]
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
