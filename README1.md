@@ -41,10 +41,9 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 **My Skills**
 
-Data Visualization
-
-[![](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=r,matlab,mysql)](https://skillicons.dev)
 ![](https://i.postimg.cc/d1YDFV8d/excel.png)
+![](https://i.postimg.cc/hGqKz3fR/tableau.png)
 
 
 
