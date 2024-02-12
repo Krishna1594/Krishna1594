@@ -5,7 +5,6 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/jqD428Nj/srp.gif">
 <br><br>
-
 - 💬 Ask me about Oil & Gas and Data.
 - 🔭 I’m also an astrophotographer. Read my blogs about my meetings with celestials.
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
