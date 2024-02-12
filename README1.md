@@ -41,7 +41,9 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 My Skills
 
-[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Data Visualization
+
+[![](https://skillicons.dev/icons?i=r,html,css,wasm)](https://skillicons.dev)
 
 
 
