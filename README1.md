@@ -11,6 +11,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can hold my breath up to 1 minute 43 seconds.
+- 🎮 I am a PC gamer.
  
 
  
@@ -30,6 +31,11 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  <a href="https://public.tableau.com/app/profile/krishna.n.bharatula/vizzes" target="_blank">
   <img src="https://i.postimg.cc/sXQGjN8d/Tableau-Icon.png" alt="Krishna1594"/>
  </a>
+  </a>
+ <a href="https://steamcommunity.com/profiles/76561198837024807/" target="_blank">
+  <img src="https://i.postimg.cc/fy5N6wKw/gaming.gif" alt="Krishna1594"/>
+ </a>
+ 
  
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
