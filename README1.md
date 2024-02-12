@@ -8,15 +8,16 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like swimming and Shuttle Badminton. I like trickshots.
- 🤝 Connect with me on
+- 🤝 Connect with me on:
 <p align="center">
  <a href="https://krishna1594.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://i.postimg.cc/CM7fsbgq/world-wide-web-6471842.png" alt="alsiam" />
  </a>
  </a>
  <a href="https://linkedin.com/in/krishna-nischal-bharatula" target="_blank">
   <img src="https://i.postimg.cc/YCbncvYG/linked-In-icon.png" alt="Krishna1594"/>
  </a>
+ 
 - 🎈 In my free time, I like to ... [LIST HOBBIES]
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
