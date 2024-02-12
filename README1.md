@@ -10,7 +10,10 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
 - 🔭 I’m also an astrophotographer. Read my blogs about my meetings with celestials.
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I like swimming and Shuttle Badminton. I like trickshots.
+- ⚡ Fun fact: I can hold my breath up to 1 minute 43 seconds.
+ 
+
+ 
 - 🤝 Connect with me on:
 <p align="center">
  <a href="https://krishna1594.github.io" target="blank">
