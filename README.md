@@ -41,10 +41,11 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 
 <p align="center"> **My Skills**
+ 
 <p align="center">
-<a[![](https://skillicons.dev/icons?i=r,matlab,mysql)](https://skillicons.dev)
-<a![](https://i.postimg.cc/d1YDFV8d/excel.png)
-<a![](https://i.postimg.cc/hGqKz3fR/tableau.png)
+<a [![](https://skillicons.dev/icons?i=r,matlab,mysql)](https://skillicons.dev)
+<a ![](https://i.postimg.cc/d1YDFV8d/excel.png)
+<a ![](https://i.postimg.cc/hGqKz3fR/tableau.png)
  </a>
 
 
