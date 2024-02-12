@@ -33,7 +33,7 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  </a>
   </a>
  <a href="https://steamcommunity.com/profiles/76561198837024807/" target="_blank">
-  <img src="https://i.postimg.cc/CKv6TRyr/gaming.gif" alt="coding"/>
+  <img src="https://i.postimg.cc/632ckzfT/gaming.avif" alt="coding"/>
  </a>
  
  
