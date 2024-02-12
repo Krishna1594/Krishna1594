@@ -17,6 +17,10 @@ I'm Krishna, a data analyst in energy field currently living in Vancouver, Canad
  <a href="https://linkedin.com/in/krishna-nischal-bharatula" target="_blank">
   <img src="https://i.postimg.cc/YCbncvYG/linked-In-icon.png" alt="Krishna1594"/>
  </a>
+ </a>
+ <a href="https://medium.com/@krishnanischal" target="_blank">
+  <img src="https://i.postimg.cc/9M6VG8fh/medium-logo-icon-189268.png" alt="Krishna1594"/>
+ </a>
  
 - 🎈 In my free time, I like to ... [LIST HOBBIES]
 
