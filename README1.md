@@ -43,7 +43,9 @@ My Skills
 
 Data Visualization
 
-[![](https://skillicons.dev/icons?i=r,html,css,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+![](https://i.postimg.cc/qvNNXYJt/excel.png)
+
 
 
 
