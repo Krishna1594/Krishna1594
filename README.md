@@ -3,7 +3,7 @@
 Welcome to my GitHub profile :)
 I'm Krishna, a data analyst in energy field currently living in Vancouver, Canada. Although I hold a petroleum engineering degree but that doesn't stop me exploring other datasets and draw insights.
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/Y2TjVSM0/analyst.png
+<img align="right" width="400" src="https://i.postimg.cc/Y2TjVSM0/analyst.png
 "/>
 <br>
 
