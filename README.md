@@ -53,6 +53,6 @@ This is where I keep my code and projects. Feel free to look around and contact 
 <p align="center"> ### :fire: My Stats :
 <p align="center">
  <a
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krishna1594&theme=dark&background=000000)](https://git.io/streak-stats)
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krishna1594&theme=dark&background=000000)](https://git.io/streak-stats)" />
  >
 
