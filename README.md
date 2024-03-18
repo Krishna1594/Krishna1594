@@ -55,4 +55,6 @@ This is where I keep my code and projects. Feel free to look around and contact 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishna1594&theme=github-dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krishna1594&theme=holi-theme)](https://git.io/streak-stats)
+
 
